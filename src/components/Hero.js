@@ -61,7 +61,7 @@ export default function Hero() {
           fontSize: 'clamp(40px, 9vw, 96px)', fontWeight: 700,
           lineHeight: 1.05, letterSpacing: '-0.03em', marginBottom: 24, color: '#fff'
         }}>
-          The Universe<br />
+          The Universe and more<br />
           <span style={{
             background: 'linear-gradient(90deg, #00C8FF, #4B6FFF, #E8009A)',
             WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'
