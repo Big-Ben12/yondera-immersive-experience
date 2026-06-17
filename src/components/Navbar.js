@@ -25,10 +25,10 @@ export default function Navbar() {
         display: 'flex', alignItems: 'center', justifyContent: 'space-between',
         height: 72,
       }}>
-        <a href="#" style={{
-          display: 'flex', alignItems: 'center', gap: 12,
-          textDecoration: 'none', flexShrink: 0
-        }}>
+      <a href="/" style={{
+  display: 'flex', alignItems: 'center', gap: 12,
+  textDecoration: 'none', flexShrink: 0
+}}>
           <img
             src="/logos/full-logo-white.png"
             alt="Yondera logo icon"
